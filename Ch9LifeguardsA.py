@@ -1,4 +1,4 @@
-def num_covered(intervals, fired):
+def num_covered(intervals, fired):  #This code too slow for 5k and up
     """
     intervals is a list of lifeguard intervals;
     each interval is a [start, end] list.
